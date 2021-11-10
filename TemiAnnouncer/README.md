@@ -1,4 +1,4 @@
-<img src="megaphone.png" align="right" height="150"/>
+<img src="documentation/megaphone.png" align="right" height="150"/>
 
 # Temi Announcer
 Temi Announcer is a versatile application that announces customised speeches upon arrival at a location.
@@ -39,12 +39,12 @@ this task repeatedly.
 
 ## "Sign In" screen
 The Google account selected will be added to Temi Announcer, where you can import images from.<br>
-![](signin.jpg)
+![](documentation/signin.jpg)
 
 ## "Locations" screen
 This screen is where all the locations in Temi Announcer resides. Each location on this screen displays their image (if present)
 as well as their description. Clicking on a location will make Temi navigate to the selected location<br>
-![](locations.jpg)<br>
+![](documentation/locations.jpg)<br>
 
 "Location items" in the screen can be shown in 1 row (default) or 2 rows, which can be set in the "Configuration" screen. <br>
 These items can be reordered for your convenience. To do that, make sure the "Sort by alphabet" button is not selected **(Selected - Green, Not Selected - White)**.
@@ -56,14 +56,14 @@ the dragged item.
 
 Selecting the "Sort by Alphabet" button will sort the location items by their location name alphabetically. If the items are presented in 2 rows, the order
 in which the items are presented are in the fashion illustrated below:
-![](locationsOrder.jpg)<br>
+![](documentation/locationsOrder.jpg)<br>
 
 Clicking on a "location item" will cause Temi to navigate to the mapped location saved under the same name. (Please see Temi's "Locations" option if unsure)
 
 ## "Routes" screen
 This screen is where all the routes in Temi Announcer resides. Patrol routes are indicated with their light blue border, and
 clicking their drop down button allows users to see more details of the patrol route. Clicking on a route executes that route.
-![](routes.jpg) <br>
+![](documentation/routes.jpg) <br>
 
 "Route items" in the screen can be shown in 1 column (default) or 2 columns, which can be set in the "Configuration" screen.<br>
 These items can be reordered for your convenience. To do that, make sure the "Sort by alphabet" button is not selected **(Selected - Green, Not Selected - White)**.
@@ -75,19 +75,19 @@ the dragged item.
 
 Selecting the "Sort by Alphabet" button will sort the route items by their titles(name) alphabetically. If the items are presented in 2 columns, the order
 in which the items are presented are in the fashion illustrated below:
-![](routesOrder.jpg)<br>
+![](documentation/routesOrder.jpg)<br>
 
 Clicking on a "route item" will cause Temi to execute the clicked route.
 
 ## "Configuration" screen
 This screen is where all configuration in Temi Announcer is done. Click the Temi Announcer logo **3** times in any of the non-configuration screens
 after signing in, and enter the configuration password to access the screen
-![](configuration.jpg)
+![](documentation/configuration.jpg)
 
 ## "Middle" screen
 This screen is shown right after signing in successfully at the "Sign In" screen. From here, you can go to one of three screens: "Routes",
 "Locations", "Configuration".<br>
-![](middle.jpg)
+![](documentation/middle.jpg)
 
 ### Default Configuration Password
 The default configuration password is "**Robosolutions**".<br> To change the password, please see [this](#changing-configuration-password).
@@ -138,9 +138,9 @@ changes should be reflected in the "Locations" screen. If not, press the refresh
 ## Adding an image to a location
 In the "Configuration" screen, click the desired location that you wish to edit at the top, and then click the **"Edit"** button under the **"Image of Location"** 
 section. If the screen (dialog) that opens does not show any images/you will have to [save images into the app](#save-images-into-the-app).<br>
-![](add_image_to_loc_1st.jpg)<br>
-![](add_image_to_loc_2nd.jpg)<br>
-![](add_image_to_loc_3rd.jpg)<br>
+![](documentation/add_image_to_loc_1st.jpg)<br>
+![](documentation/add_image_to_loc_2nd.jpg)<br>
+![](documentation/add_image_to_loc_3rd.jpg)<br>
 
 ## Adding speech/description to a location
 In the "Configuration" screen, click the desired location that you wish to edit at the top, and then click the **"Edit"** button under the appropriate section.
@@ -154,17 +154,17 @@ drag it to the location item you would like to switch with, and release your fin
 
 ## Creating routes
 In the "Routes" screen, click the red button with an addition symbol on the bottom right. Enter the configuration password to proceed.<br>
-![](add_route_1st.jpg)<br>
+![](documentation/add_route_1st.jpg)<br>
 Fill in the new route's title at the top. To create a patrol route, see [this](#creating-patrol-routes).<br>
 
 Under the "Saved Locations" section, click the desired location to add them into the route that you want to create.
 To remove a location from the route that you are building, click on that location under the "Routes" section instead of the "Saved Locations" section.<br>
-![](add_route_2nd.jpg)
+![](documentation/add_route_2nd.jpg)
 
 
 ## Creating patrol routes
 Under the screen to [add a new route](#creating-routes), toggle the switch under **"Is this route a patrolling route"** to the **"Yes"** option. <br>
-![](add_patrol_route.jpg)<br>
+![](documentation/add_patrol_route.jpg)<br>
 
 Patrol Count refers to the number of times the route you specify will be repeated. If you want this route to be patrolled indefinitely, toggle the checkbox 
 "Is patrol continuous?" to "Yes". Temi will return to home base when its battery gets low (15%). <br>
@@ -189,11 +189,11 @@ configurable amount of time to pass.
 
 ## Editing/Deleting a route (patrol/non-patrol)
 Under the "Configuration" screen, select the "Routes" tab on the left, and all of the existing routes will be shown on the right. <br>
-![](edit_route_1st.jpg)<br>
+![](documentation/edit_route_1st.jpg)<br>
 Click the desired route at the top, then click the "Edit" button at the bottom to proceed to the screen to edit the desired route, or the "Delete" button
 to delete the desired route.<br>
-![](edit_route_2nd.jpg)<br>
-![](edit_route_3rd.jpg)<br>
+![](documentation/edit_route_2nd.jpg)<br>
+![](documentation/edit_route_3rd.jpg)<br>
 
 
 ## Reorder routes in screen
@@ -207,41 +207,41 @@ If you would like to create many (patrol) routes with the same dialog message, e
 their dialog message empty**. Under the "Routes" tab in the "Configuration" screen, you can then edit one of these routes, add the dialog message to that route,
 save, and then click "Yes" when asked to copy the dialog message to other routes. A dialog will appear that allows you to select all the routes that you 
 wish to copy the dialog message to.<br>
-![](copy_dialog_msg.jpg)<br>
-![](copy_dialog_msg_screen.jpg)<br>
+![](documentation/copy_dialog_msg.jpg)<br>
+![](documentation/copy_dialog_msg_screen.jpg)<br>
 
 If you would like to create many patrol routes with the same patrol speech, especially if its lengthy, the procedure is similar to the previous paragraph, but for the
 patrol speech instead. When asked to copy the **dialog message** to other routes, click "No", and then you will be asked to copy the **patrol speech** to other patrol
 routes, to which you should click "Yes". A dialog will appear that allows you to select all the patrol routes that you wish to copy the patrol speech to.<br>
-![](copy_patrol_speech.jpg)<br>
-![](copy_patrol_speech_screen.jpg)<br>
+![](documentation/copy_patrol_speech.jpg)<br>
+![](documentation/copy_patrol_speech_screen.jpg)<br>
 
 <div style="page-break-after: always;"></div>
 
 ## Save images into the app
 Under the "Configuration" screen, select the "Resources" tab on the left.<br>
-![](save_image_app_1st.jpg)<br>
+![](documentation/save_image_app_1st.jpg)<br>
 Click the green button at the center top, and a dialog will appear. From there, you can choose where to import your images (into the app) from. <br>
 
 ## Show more locations in the "Locations" screen
 The app allows showing 2 rows instead of 1 row (default) of locations in the "Locations" screen. <br>
 Under the "Configuration" screen, select the "Settings" tab on the left, then under "Locations", change the "Number of rows in Locations screen" option.<br>
-![](show_more_loc.jpg)
+![](documentation/show_more_loc.jpg)
 
 ## Show more routes in the "Routes" screen
 The app allows showing 2 columns instead of 1 column (default) of routes in the "Routes" screen <br>
 Under the "Configuration" screen, select the "Settings" tab on the left, then under "Routes", change the "Number of columns in Routes screen" option.<br>
-![](show_more_routes.jpg)
+![](documentation/show_more_routes.jpg)
 
 ## Modifying time taken before temi moves to next location in route
 Under the "Configuration" screen, select the "Settings" tab on the left, then under "Routes", change the "Number of seconds that temi will wait before continuing
 to next destination" option. The default option is 30 seconds.<br>
-![](time_taken.jpg)
+![](documentation/time_taken.jpg)
 
 ## Changing configuration password
 Under the "Configuration" screen, select the "Settings" tab on the left, then under "Others", click the "Edit" button of the "Configuration Password" section to be
 brought to a dialog to change your password.<br>
-![](config_pw.jpg)
+![](documentation/config_pw.jpg)
 
 <div style="page-break-after: always;"></div>
 

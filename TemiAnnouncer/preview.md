@@ -21,3 +21,8 @@ this task repeatedly.
 
 ![](documentation/configuration.jpg)
 
+
+## Interested to know more? Head over here for the full User Guide
+<div>Icons made by <a href="" title="wanicon">wanicon</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+

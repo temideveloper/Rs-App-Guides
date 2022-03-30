@@ -12,7 +12,6 @@ Concierge services covered include teleconferencing, directory, promotion & mark
 
 Perhaps you operate in a services business that requires assisting guests at the front door with concierge-like services such as guiding guests to locations on your premise, sharing dinning options or ongoing promotions, arranging transportation and answering customer queries
 
-Perhaps you operate in a business that requires a front-desk receptionist to guide visitors around the place, arrange meetings and entertain customer queries
 
 TemiConcierge will be able to fulfill these functionalties at a fraction of a cost of a full-time staff
 

@@ -20,4 +20,4 @@ TemiConcierge will be able to fulfill these functionalties at a fraction of a co
 
 ![](docs/home_home_tab.gif)
 ## Interested to know more? Click below for the full User Guide
-<div> <a href="https://github.com/temideveloper/Rs-App-Guides/blob/master/TemiConcierge/README.md" title="TemiConcierge"> Temi Announcer</a> </div>
+<div> <a href="https://github.com/temideveloper/Rs-App-Guides/blob/master/TemiConcierge/README.md" title="TemiConcierge"> TemiConcierge</a> </div>

@@ -21,8 +21,7 @@ this task repeatedly.
 
 ![](documentation/configuration.jpg)
 
-
-## Interested to know more? Head over here for the full User Guide
-<div>Icons made by <a href="" title="wanicon">wanicon</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+## Interested to know more? Click the link below for the full User Guide
+<div> <a href="https://github.com/temideveloper/Rs-App-Guides/blob/master/TemiAnnouncer/README.md" title="Temi Announcer"> </a> </div>
 
 

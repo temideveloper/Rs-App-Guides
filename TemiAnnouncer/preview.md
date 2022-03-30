@@ -22,6 +22,6 @@ this task repeatedly.
 ![](documentation/configuration.jpg)
 
 ## Interested to know more? Click the link below for the full User Guide
-<div> <a href="https://github.com/temideveloper/Rs-App-Guides/blob/master/TemiAnnouncer/README.md" title="Temi Announcer"> </a> </div>
+<div> <a href="https://github.com/temideveloper/Rs-App-Guides/blob/master/TemiAnnouncer/README.md" title="Temi Announcer"> Temi Announce </a> </div>
 
 

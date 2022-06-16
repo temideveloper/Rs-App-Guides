@@ -1,12 +1,12 @@
 <img src="documentation/megaphone.png" align="right" height="150"/>
 
-# Temi Announcer
+# TemiWayFinder
 TemiWayFinder is a versatile application used for wayfinding purposes. It will direct users to a location before automtically returning to a saved starting position
 
 Locations captured using Temi's internal mapping are displayed inside this app and they can be configured to announce speeches upon arrival at each location. Temi will then be programmed to move back to the location named "Start" after arriving at the destination
 
 
-## Why should I use Temi Announcer?
+## Why should I use TemiWayFinder?
 
 Perhaps you are a business owner and you would like to offer visitors who enter your physical store/facility a service that can bring them
 to a location of their choice? Temi Announcer allows you to add a description and an image to a location saved in temi, so that

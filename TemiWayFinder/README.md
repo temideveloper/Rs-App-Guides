@@ -25,6 +25,8 @@ visitors have a better idea of where to go, and they can select that location fo
    
 4. Refrain from navigating around the app using the back button on the left/right of Temi's bottom toolbar.
 
+5. Use Temi mapping feature to save a location and name it as **start**. This is location Temi will return to after arriving at a destination
+
 
 <div style="page-break-after: always;"></div>
 

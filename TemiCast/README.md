@@ -6,7 +6,7 @@ This app allows temi to mirror its screen to any device that supports Miracast a
 
 ---
 ## App Configurations
-**The device to be casted on should either support ChromeCast or MiraCast. This can either be built-in inside a smartTV or via a ChromeCast/MiraCast Dongle
+**The device to be casted on should either support ChromeCast or MiraCast. This can either be built-in inside a smartTV or via a ChromeCast/MiraCast Dongle**
 ---
 
 ## Casting

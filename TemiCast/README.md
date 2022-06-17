@@ -10,7 +10,7 @@ This app allows temi to mirror its screen to any device that supports Miracast a
 ## Casting
 ![Alt Text](documents/castTv_homepage.png)
 Press the central button on the screen to start the casting. 
-![Alt Text](castTv_screencasting.png)
+![Alt Text](documents/castTv_screencasting.png)
 Nearby devices that have ChromeCast/MiraCast enabled will appear on the screen. Select the relevant one and the screen casting session will begin
 
 

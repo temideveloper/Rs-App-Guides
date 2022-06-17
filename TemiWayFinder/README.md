@@ -40,7 +40,7 @@ The Google account selected will be added to TemiWayFinder, where you can import
 ## "Locations" screen
 This screen is where all the locations in TemiWayFinder resides. Each location on this screen displays their image (if present)
 as well as their description. Clicking on a location will make Temi navigate to the selected location. Upon arrival, Temi will wait for 10 seconds
-and bore"We have reached the destination. I'll be heading back now"before returning back to the **Start** position <br>
+and before announcing "We have reached the destination. I'll be heading back now" and then returning back to the **Start** position <br>
 ![](documentation/temiWayFinder_LocationsPage.png)<br>
 
 "Location items" in the screen can be shown in 1 row (default) or 2 rows, which can be set in the "Configuration" screen. <br>

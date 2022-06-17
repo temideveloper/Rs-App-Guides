@@ -1,7 +1,7 @@
 <img src="documentation/megaphone.png" align="right" height="150"/>
 
 # TemiWayFinder
-TemiWayFinder is a versatile application used for wayfinding purposes. It will direct users to a location before automtically returning to a saved starting position
+TemiWayFinder is a versatile application used for wayfinding purposes. It will direct users to a location before automtically returning to the start position
 
 Locations captured using Temi's internal mapping are displayed inside this app and they can be configured to announce speeches upon arrival at each location. Temi will then be programmed to move back to the location named "Start" after arriving at the destination
 
@@ -9,7 +9,7 @@ Locations captured using Temi's internal mapping are displayed inside this app a
 ## Why should I use TemiWayFinder?
 
 Perhaps you are a business owner and you would like to offer visitors who enter your physical store/facility a service that can bring them
-to a location of their choice? Temi Announcer allows you to add a description and an image to a location saved in temi, so that
+to a location of their choice? TemiWayFinder allows you to add a description and an image to a location saved in temi, so that
 visitors have a better idea of where to go, and they can select that location for temi to escort them there.
 
 
@@ -25,7 +25,7 @@ visitors have a better idea of where to go, and they can select that location fo
    
 4. Refrain from navigating around the app using the back button on the left/right of Temi's bottom toolbar.
 
-5. Use Temi mapping feature to save a location and name it as **start**. This is location Temi will return to after arriving at a destination
+5. Use Temi mapping feature to save a location and name it as **start**. This location is required as Temi will return to this location after arriving at the destination. 
 
 
 <div style="page-break-after: always;"></div>
@@ -35,31 +35,31 @@ visitors have a better idea of where to go, and they can select that location fo
 
 ## "Sign In" screen
 The Google account selected will be added to TemiWayFinder, where you can import images from.<br>
-![](documentation/signin.jpg)
+![](documentation/temiWayFinder_signIn.png)
 
 ## "Locations" screen
 This screen is where all the locations in TemiWayFinder resides. Each location on this screen displays their image (if present)
-as well as their description. Clicking on a location will make Temi navigate to the selected location. Upon arrival, Temi will wait for 10 seconds before returning back to the **Start** position <br>
-![](documentation/locations.jpg)<br>
+as well as their description. Clicking on a location will make Temi navigate to the selected location. Upon arrival, Temi will wait for 10 seconds
+and bore"We have reached the destination. I'll be heading back now"before returning back to the **Start** position <br>
+![](documentation/temiWayFinder_LocationsPage.png)<br>
 
 "Location items" in the screen can be shown in 1 row (default) or 2 rows, which can be set in the "Configuration" screen. <br>
 These items can be reordered for your convenience. To do that, make sure the "Sort by alphabet" button is not selected **(Selected - Green, Not Selected - White)**.
+
 Long press on the item you want to reorder until the item becomes partially transparent, and drag it to where you would like its new position to be, and release your finger
 to drop the item in its new position.<br>
 
 **Tip**: Dragging and dropping the "location items" **does NOT swap** the items, but rather it places all other items that it has displaced either in front or behind
 the dragged item.
 
-Selecting the "Sort by Alphabet" button will sort the location items by their location name alphabetically. If the items are presented in 2 rows, the order
-in which the items are presented are in the fashion illustrated below:
-![](documentation/locationsOrder.jpg)<br>
+Selecting the "Sort by Alphabet" button will sort the location items by their location name alphabetically. 
 
 Clicking on a "location item" will cause Temi to navigate to the mapped location saved under the same name. (Please see Temi's "Locations" option if unsure)
 
 ## "Configuration" screen
 This screen is where all configuration in TemiWayFinder is done. Click the Temi Announcer logo **3** times in any of the non-configuration screens
 after signing in, and enter the configuration password to access the screen
-![](documentation/configuration.jpg)
+![](documentation/temiWayFinder_ConfigurationSettings.png)
 
 
 ### Default Configuration Password
@@ -110,7 +110,7 @@ drag it to the location item you would like to switch with, and release your fin
 
 ## Save images into the app
 Under the "Configuration" screen, select the "Resources" tab on the left.<br>
-![](documentation/save_image_app_1st.jpg)<br>
+![](documentation/temiWayFinder_ConfigurationResourcesDrive.png)<br>
 Click the green button at the center top, and a dialog will appear. From there, you can choose where to import your images (into the app) from. <br>
 
 ## Show more locations in the "Locations" screen

@@ -5,7 +5,7 @@
 This app allows temi to mirror its screen to any device that supports Miracast and Chromecast. The use cases are for during demo or tutorial sessions where casting Temi's screen on a larger screen makes the learning process better
 
 ## App Configurations
-**The device to be casted on should either support ChromeCast or MiraCast. This can either be built-in inside a smartTV or via a ChromeCast/MiraCast Dongle**
+**The device to be casted on should either support Chromecast or Miracast. This can either be built-in inside a smartTV or via a Chromecast/Miracast Dongle**
 
 ## Casting
 ![Alt Text](documentation/castTv_homepage.png)

@@ -1,5 +1,5 @@
 <!-- Heading--->
-<img src="docs/app_logo.png" align="right" height="150"/>
+<img src="documentation/app_logo.png" align="right" height="150"/>
 
 
 # TemiConcierge
@@ -15,6 +15,6 @@ Perhaps you operate in a services business that requires assisting guests at the
 
 TemiConcierge will be able to fulfill these functionalties at a fraction of a cost of a full-time staff
 
-![](docs/home_home_tab.gif)
+![](documentation/home_home_tab.gif)
 ## Interested to know more? Click below for the full User Guide
 <div> <a href="https://github.com/temideveloper/Rs-App-Guides/blob/master/TemiConcierge/README.md" title="TemiConcierge"> TemiConcierge</a> </div>

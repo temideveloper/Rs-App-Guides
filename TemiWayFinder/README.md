@@ -1,4 +1,4 @@
-<img src="documentation/megaphone.png" align="right" height="150"/>
+<img src="documentation/arrow.png" align="right" height="150"/>
 
 # TemiWayFinder
 TemiWayFinder is a versatile application used for wayfinding purposes. It will direct users to a location before automtically returning to the start position
@@ -35,13 +35,13 @@ visitors have a better idea of where to go, and they can select that location fo
 
 ## "Sign In" screen
 The Google account selected will be added to TemiWayFinder, where you can import images from.<br>
-![](documentation/temiWayFinder_signIn.png)
+![](documentation/signIn.png)
 
 ## "Locations" screen
 This screen is where all the locations in TemiWayFinder resides. Each location on this screen displays their image (if present)
 as well as their description. Clicking on a location will make Temi navigate to the selected location. Upon arrival, Temi will wait for 10 seconds
 and before announcing "We have reached the destination. I'll be heading back now" and then returning back to the **Start** position <br>
-![](documentation/temiWayFinder_LocationsPage.png)<br>
+![](documentation/LocationsPage.png)<br>
 
 "Location items" in the screen can be shown in 1 row (default) or 2 rows, which can be set in the "Configuration" screen. <br>
 These items can be reordered for your convenience. To do that, make sure the "Sort by alphabet" button is not selected **(Selected - Green, Not Selected - White)**.
@@ -59,7 +59,7 @@ Clicking on a "location item" will cause Temi to navigate to the mapped location
 ## "Configuration" screen
 This screen is where all configuration in TemiWayFinder is done. Click the Temi Announcer logo **3** times in any of the non-configuration screens
 after signing in, and enter the configuration password to access the screen
-![](documentation/temiWayFinder_ConfigurationSettings.png)
+![](documentation/ConfigurationSettings.png)
 
 
 ### Default Configuration Password
@@ -93,9 +93,8 @@ changes should be reflected in the "Locations" screen. If not, press the refresh
 ## Adding an image to a location
 In the "Configuration" screen, click the desired location that you wish to edit at the top, and then click the **"Edit"** button under the **"Image of Location"** 
 section. If the screen (dialog) that opens does not show any images/you will have to [save images into the app](#save-images-into-the-app).<br>
-![](documentation/add_image_to_loc_1st.jpg)<br>
-![](documentation/add_image_to_loc_2nd.jpg)<br>
-![](documentation/add_image_to_loc_3rd.jpg)<br>
+![](documentation/ConfigurationLocations.png)<br>
+![](documentation/SelectImage.png)<br>
 
 ## Adding speech/description to a location
 In the "Configuration" screen, click the desired location that you wish to edit at the top, and then click the **"Edit"** button under the appropriate section.
@@ -110,28 +109,14 @@ drag it to the location item you would like to switch with, and release your fin
 
 ## Save images into the app
 Under the "Configuration" screen, select the "Resources" tab on the left.<br>
-![](documentation/temiWayFinder_ConfigurationResourcesDrive.png)<br>
+![](documentation/ConfigurationResourcesDrive.png)<br>
 Click the green button at the center top, and a dialog will appear. From there, you can choose where to import your images (into the app) from. <br>
 
-## Show more locations in the "Locations" screen
-The app allows showing 2 rows instead of 1 row (default) of locations in the "Locations" screen. <br>
-Under the "Configuration" screen, select the "Settings" tab on the left, then under "Locations", change the "Number of rows in Locations screen" option.<br>
-![](documentation/show_more_loc.jpg)
-
-## Show more routes in the "Routes" screen
-The app allows showing 2 columns instead of 1 column (default) of routes in the "Routes" screen <br>
-Under the "Configuration" screen, select the "Settings" tab on the left, then under "Routes", change the "Number of columns in Routes screen" option.<br>
-![](documentation/show_more_routes.jpg)
-
-## Modifying time taken before temi moves to next location in route
-Under the "Configuration" screen, select the "Settings" tab on the left, then under "Routes", change the "Number of seconds that temi will wait before continuing
-to next destination" option. The default option is 30 seconds.<br>
-![](documentation/time_taken.jpg)
 
 ## Changing configuration password
 Under the "Configuration" screen, select the "Settings" tab on the left, then under "Others", click the "Edit" button of the "Configuration Password" section to be
 brought to a dialog to change your password.<br>
-![](documentation/config_pw.jpg)
+![](documentation/ConfigurationSettings.png)
 
 <div style="page-break-after: always;"></div>
 

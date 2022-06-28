@@ -57,13 +57,16 @@ Selecting the "Sort by Alphabet" button will sort the location items by their lo
 Clicking on a "location item" will cause Temi to navigate to the mapped location saved under the same name. (Please see Temi's "Locations" option if unsure)
 
 ## "Configuration" screen
-This screen is where all configuration in TemiWayFinder is done. Click the Temi Announcer logo **3** times in any of the non-configuration screens
+This screen is where all configuration in TemiWayFinder is done. Click the temiWayFinder logo **3** times in any of the non-configuration screens
 after signing in, and enter the configuration password to access the screen
 ![](documentation/ConfigurationSettings.png)
 
 
 ### Default Configuration Password
 The default configuration password is "**Robosolutions**".<br> To change the password, please see [this](#changing-configuration-password).
+
+### temi App List
+From any Configuration screen, clicking temiWayfinder logo again exits the app and navigates back to temi's App List. 
 
 <div style="page-break-after: always;"></div>
 

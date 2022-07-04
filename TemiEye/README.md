@@ -40,7 +40,8 @@ When attempting to start a patrol, if the patrol does not begin for quite some t
 
 App configurations:
 - Server IP Address: IP address of Ant Media server where live stream can be accessed and recorded
-- App master password - Master password for configuring application settings
+- App master password - Master password for configuring application settings <br>
+**Default password: Robosolutions**
 ---
 ## Patrol
 ### Route creation

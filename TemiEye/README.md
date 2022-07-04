@@ -33,9 +33,7 @@ This application allows users to create routes from locations saved in the Temi 
 
 ## App Configurations
 
-<div markdown="span" class="alert alert-warning">:exclamation: **Caution:**
-Set the IP Address of the Ant Media server used for streaming. See [Quick Start](#quick-start) for IP Address to be filled in. 
-</div>
+**Set the IP Address of the Ant Media server used for streaming. See [Quick Start](#quick-start) for IP Address to be filled in.**
 
 When attempting to start a patrol, if the patrol does not begin for quite some time, it is likely that there is an issue with the server or the IP address is inputted wrongly. 
 

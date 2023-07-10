@@ -48,7 +48,13 @@ Here is an example of the data that is sent.
 
 ![log_message](img/sample_log.PNG)
 
-Notes: 
+Here is an example image of how the map is orientated. More information can be found [below](#Notes). 
+
+
+![orientation](img/orientation.PNG)
+
+
+### Notes 
 
 * Coordinate of home base is `x=0` and `y=0`. However, the robot may send very slight variations due to the way the robot is docked in the home base.
 * The X-axis extends in the direction the home base is facing and the Y-axis extends to the left of the direction the home base is facing. 

@@ -126,6 +126,9 @@ brought to a dialog to change your password.<br>
 ## Issues
 * App might exit when touching its interaction button when trying to stop its execution of a route. This might happen only when doing such an action for the
 first time after installing the app, but it will not happen again.
+* If Temi does not return to the default location after bringing someone to their desired location, try these troubleshooting techniques. 
+   1. Avoid using `Home Base` as the default location to return to after Temi brings you to a location. If needed, a new location can be created specifically for this purpose next to the home base.  
+   2. Temi settings -> map editor -> map options ->  Start positioning -> Auto. Should positioning fail, send temi back to home base and temi will auto position. (Employ this technique especially if you see temi stuck on calculating)
 
 ## Acknowledgements
 ### Icons

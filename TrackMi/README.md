@@ -54,5 +54,5 @@ Notes:
 * The X-axis extends in the direction the home base is facing and the Y-axis extends to the left of the direction the home base is facing. 
     - Note that this means the right of the direction the home base is facing is considered the negative y direction. Likewise, anything behind the home base is considered to have negative x direction. 
 * The `scale` of the axis is `1 to 1 metre`. (i.e. an increase from x=0 to x=1) indicates that the robot has moved 1metre in the direction the home base is facing. 
-* The `yaw` field indicates the direction that the robot is currently facing. The range of values is [-π, π]. Turning clockwise is positive while turning anti-clockwise is negative. 
+* The `yaw` field indicates the direction that the robot is currently facing. The range of values is [-π, π]. Turning clockwise is negative while turning anti-clockwise is positive. 
 * The `tilt angle` field indicates the angle of the screen. The range of values is [-25, 55] in degrees. 

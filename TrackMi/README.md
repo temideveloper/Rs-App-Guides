@@ -10,7 +10,7 @@ You can click on the `Start Job` button to start and the `Stop Job` button to st
 
 When the job is started, the first line will show `Job running`. 
 
-When the job is stopped, the first line wil lshow  `Job not running`. 
+When the job is stopped, the first line will show  `Job not running`. 
 
 ![map_perm](img/map_perm.png)
 

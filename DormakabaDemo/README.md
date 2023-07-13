@@ -44,9 +44,11 @@ You can edit the password or the API key here.
 You can click on `Add A New Door` to add a new door.
 ![add_door](img/add_door.png)
 
+### Note
+
 * `Before and after door` locations **cannot** be the same.
 * The locations are taken from the locations stored in temi's map.
-* Preferbally, `before  and after door` locations should both be facing the door, when saved in temi's map.
+* Preferably, `before  and after door` locations should both be facing the door, when saved in temi's map.
 * The `UUID` field fetches from the server the list of `UUIDs` provided by Dormakaba.
   * While it is fetching, you **cannot** save the door details.
   * While it is fetching, you can edit the description, and choose the before and after door locations.

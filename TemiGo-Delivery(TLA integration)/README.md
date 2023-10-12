@@ -21,6 +21,7 @@
 - [FAQ](#faq)
   - [Creating/Deleting locations](#creatingdeleting-locations)
   - [What is the difference between a speech and description for a location in the app?](#what-is-the-difference-between-a-speech-and-description-for-a-location-in-the-app)
+  - [How does the tray system and weight sensors work?](#how-does-the-tray-system-and-weight-sensors-work)
 - [Acknowledgements](#acknowledgements)
 
 </details>
@@ -65,6 +66,7 @@ However, before temiGo start to deliver your things, here are a few points to no
 1. **Always** place the things you want to deliver onto the tray first before starting to deliver. Adding to or taking things off the tray can be dangerous as temiGo **will not stop** and wait for you to put the things once it starts moving.
 1. temiGo will update the `tray color` as you put or take your things. Use this as an indicator whether temiGo is aware of the items you placed into it's tray.
 1. At least 1 and at most 3 locations can be picked to start delivering.
+1. Each location added correspond to a tray (tray 1 for location 1, tray 2 for location 2, tray 3 for location 3) 
 
 You can now click on the `Start Delivery` button and temi will proceed to [Travelling Screen](#travelling-screen) and deliver your things.
 
@@ -74,13 +76,14 @@ Selecting the `Setting` button will bring you to the [Configuration Screen](#con
 
 Alternatively, you can click on `Follow Me` button on the top right corner, and temiGo will follow wherever you go. You can click on the `Stop` button to stop temiGo from following you.
 
+
 ## Travelling Screen
 
 You will see this page when temiGo is moving to a selected location.
 
 ![travelling_screen](img/travel.png)
 
-When it arrives, it will play the arrivial speech. This can be changed (whether temi speaks or not and what is speaks) in [Locations Settings](#locations-settings).
+When it arrives, it will play the arrival speech. This can be changed (whether temi speaks or not and what is speaks) in [Locations Settings](#locations-settings).
 
 There are 4 buttons at the bottom that you can click on, even when temiGo is moving. They are there for you to click in case you want to cancel the delivery, or want to stop temi to load/remove stuff.
 
@@ -192,6 +195,14 @@ Locations in the app reflect the locations saved in temi. As such, adding/deleti
 Descriptions appear at the bottom of the location card in the Delivery Locations screen. 
 
 Both speech and description for a location can be announced, but only the description for a location will be shown in the locations screen. If both speech and description are to be announced, the speech will be announced before the description.
+
+
+### How does the tray system and weight sensors work?
+
+Each Tray is tied to a destination. Hence, only 3 destinations are supported in the weight sensor version. First destination is tied to first tray etc. 
+
+If the weight sensor is loaded when temiGO reaches the first destination, temiGO will wait at the location until the tray is emptied or until the timeout runs out, whichever comes first. Note that the timeout will be decreased to 10 seconds after the tray has been emptied. 
+
 
 ## Acknowledgements
 
